@@ -16,7 +16,7 @@ You need to have [Matlab](https://www.mathworks.com/products/matlab.html) alread
 
 1. Download the repository to a local folder (e.g. ~/ptv-binning-codes/) by running: 
 ```console
-git clone https://github.com/fmamitrotta/matlab-4-xfoil.git
+git clone https://github.com/fmamitrotta/ptv-binning-codes.git
 ```
 2. Run Matlab and add the folder (~/ptv-binning-codes/) to your Matlab path.
 
